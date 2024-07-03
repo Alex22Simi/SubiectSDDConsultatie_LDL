@@ -1,0 +1,5 @@
+12.02.2024,Simionescu Ion,cardiologie,rau,500
+12.03.2022,Alin,radiologie,rau,300
+12.02.2021,Mircea,kineto,bolnav,400
+11.04.2024,Ionut,radiologie,bolnav,200
+15.05.2022,Matei,cardiologie,bolnav,550
